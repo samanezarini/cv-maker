@@ -7,6 +7,7 @@ A ready-made project created by Semane Zarini provides the user with the possibi
 
 
 
+### The project was done
 
 This is a Persian resume maker project that the user can start the process of creating a resume after registering on this mini website by filling in personal information in the forms.
 
